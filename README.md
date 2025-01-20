@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skullcruiser
-- 👀 I’m interested in sports and computers.
-- 🌱 I’m currently learning Python,C++ snd Java.
+- 👀 I’m interested in AI/ML and Data Science.
+- 🌱 I’m well versed in Python,C++ and Java.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me : www.instagram.com/shivam.fistdrop
 
